@@ -1,11 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Mesum%20Hussain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20%26%20Web%20%7C%20AI-driven%20systems&descAlignY=58&descSize=18" width="100%"/>
+# Hi, I'm Mesum Hussain 👋
+
+### Full-Stack Developer · Mobile & Web · AI-driven systems
 
 <a href="https://mesumfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"/></a>
 <a href="https://linkedin.com/in/mmesumhussain"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/23028191"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <a href="mailto:mesummm8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:00c9a7&height=4&width=1000" width="100%"/>
 
 </div>
 
@@ -30,13 +34,9 @@ Full-Stack Developer building cross-platform mobile & web apps with **Python (Fl
 
 </div>
 
-> Icons come from [skillicons.dev](https://skillicons.dev) — if any icon in a row doesn't render, that tool just hasn't added that skill id yet; the rest of the row is unaffected.
-
 <br>
 
 ### 👾 Contribution Graph — Pac-Man Edition
-
-Pac-Man munching your real GitHub contributions instead of a plain calendar grid, powered by the [`pacman-contribution-graph`](https://github.com/abozanona/pacman-contribution-graph) GitHub Action. This needs a one-time setup in **your own `Mesumm8/Mesumm8` profile repo** (a static image can't pull your live contribution data), so do the 3 steps below once, then it self-updates daily.
 
 <div align="center">
 
@@ -89,7 +89,7 @@ Pac-Man munching your real GitHub contributions instead of a plain calendar grid
     ```
 
 2. Go to **Settings → Actions → General → Workflow permissions** and enable **Read and write permissions**.
-3. Go to the **Actions** tab, run the `generate arcade contribution graphs` workflow once manually. It publishes the SVG to a new `output` branch — the image block above will then render automatically and refresh every day.
+3. Go to the **Actions** tab and run the `generate arcade contribution graphs` workflow once manually. It publishes the SVG to a new `output` branch — the image above then renders and refreshes daily.
 
 </details>
 
@@ -135,6 +135,9 @@ Pac-Man munching your real GitHub contributions instead of a plain calendar grid
 <div align="center">
 
 [![](https://komarev.com/ghpvc/?username=Mesumm8&style=for-the-badge&color=blueviolet)](https://visitcount.itsvg.in)
+
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:0f2027&height=100&section=footer" width="100%"/>
 
