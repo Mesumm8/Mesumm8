@@ -1,27 +1,141 @@
-# 💫 About Me:
-I am a Full-Stack Software Developer with a degree in Computer Science, specializing in building cross-platform mobile and web applications. My experience spans front-end and back-end engineering using Python (Flask), Java, JavaScript, Flutter, and Firebase, with a strong emphasis on designing RESTful web services and integrating AI-driven engines. Passionate about clean software architecture, intelligent systems, and continuous learning, I’m always eager to collaborate on modern tech solutions and impactful open-source projects.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Mesum%20Hussain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20%26%20Web%20%7C%20AI-driven%20systems&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=FF7139)](https://mesumfolio.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mmesumhussain) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23028191) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mesummm8@gmail.com) 
+<a href="https://mesumfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"/></a>
+<a href="https://linkedin.com/in/mmesumhussain"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/23028191"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+<a href="mailto:mesummm8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mesumm8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mesumm8&theme=dark&hide_border=false&timezone=Asia/Muscat&mode=daily)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mesumm8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mesumm8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
+
+### 💫 About Me
+
+Full-Stack Developer building cross-platform mobile & web apps with **Python (Flask), Java, JavaScript, Flutter & Firebase**. I love clean architecture, REST APIs, and wiring AI into real products.
+
+<br>
+
+### 🧠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,py,dotnet&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi,flutter,bootstrap,tailwind&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=firebase,postgres,sqlite,mysql,mongodb,nginx&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,vercel,netlify,kubernetes&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,git,github&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=figma,gradle,githubactions,oracle,nvidia&theme=dark" />
+
+</div>
+
+> Icons come from [skillicons.dev](https://skillicons.dev) — if any icon in a row doesn't render, that tool just hasn't added that skill id yet; the rest of the row is unaffected.
+
+<br>
+
+### 👾 Contribution Graph — Pac-Man Edition
+
+Pac-Man munching your real GitHub contributions instead of a plain calendar grid, powered by the [`pacman-contribution-graph`](https://github.com/abozanona/pacman-contribution-graph) GitHub Action. This needs a one-time setup in **your own `Mesumm8/Mesumm8` profile repo** (a static image can't pull your live contribution data), so do the 3 steps below once, then it self-updates daily.
+
+<div align="center">
+
+<!-- pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mesumm8/Mesumm8/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mesumm8/Mesumm8/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mesumm8/Mesumm8/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+<details>
+<summary><b>⚙️ One-time setup (click to expand)</b></summary>
+
+<br>
+
+1. In your `Mesumm8/Mesumm8` repo, create `.github/workflows/pacman.yml`:
+
+    ```yaml
+    name: generate arcade contribution graphs
+
+    on:
+      schedule:
+        - cron: '0 0 * * *'   # daily
+      workflow_dispatch:
+      push:
+        branches: [main]
+
+    jobs:
+      generate:
+        permissions:
+          contents: write
+        runs-on: ubuntu-latest
+        timeout-minutes: 20
+        steps:
+          - name: generate contribution graph SVGs
+            uses: abozanona/pacman-contribution-graph@main
+            with:
+              github_user_name: ${{ github.repository_owner }}
+              games: 'pacman'
+
+          - name: push SVGs to the output branch
+            uses: crazy-max/ghaction-github-pages@v3.1.0
+            with:
+              target_branch: output
+              build_dir: dist
+            env:
+              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    ```
+
+2. Go to **Settings → Actions → General → Workflow permissions** and enable **Read and write permissions**.
+3. Go to the **Actions** tab, run the `generate arcade contribution graphs` workflow once manually. It publishes the SVG to a new `output` branch — the image block above will then render automatically and refresh every day.
+
+</details>
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Mesumm8&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Mesumm8&theme=radical&hide_border=true&timezone=Asia/Muscat&mode=daily" height="165"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mesumm8&theme=radical&hide_border=true&layout=compact&langs_count=10"/>
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mesumm8&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1"/>
+
+</div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mesumm8&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Mesumm8&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://github-contributor-stats.vercel.app/api?username=Mesumm8&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=Mesumm8&style=for-the-badge&color=blueviolet)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
