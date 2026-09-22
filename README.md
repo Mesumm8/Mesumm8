@@ -49,50 +49,6 @@ Full-Stack Developer building cross-platform mobile & web apps with **Python (Fl
 
 </div>
 
-<details>
-<summary><b>⚙️ One-time setup (click to expand)</b></summary>
-
-<br>
-
-1. In your `Mesumm8/Mesumm8` repo, create `.github/workflows/pacman.yml`:
-
-    ```yaml
-    name: generate arcade contribution graphs
-
-    on:
-      schedule:
-        - cron: '0 0 * * *'   # daily
-      workflow_dispatch:
-      push:
-        branches: [main]
-
-    jobs:
-      generate:
-        permissions:
-          contents: write
-        runs-on: ubuntu-latest
-        timeout-minutes: 20
-        steps:
-          - name: generate contribution graph SVGs
-            uses: abozanona/pacman-contribution-graph@main
-            with:
-              github_user_name: ${{ github.repository_owner }}
-              games: 'pacman'
-
-          - name: push SVGs to the output branch
-            uses: crazy-max/ghaction-github-pages@v3.1.0
-            with:
-              target_branch: output
-              build_dir: dist
-            env:
-              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    ```
-
-2. Go to **Settings → Actions → General → Workflow permissions** and enable **Read and write permissions**.
-3. Go to the **Actions** tab and run the `generate arcade contribution graphs` workflow once manually. It publishes the SVG to a new `output` branch — the image above then renders and refreshes daily.
-
-</details>
-
 <br>
 
 ### 📊 GitHub Stats
