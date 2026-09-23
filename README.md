@@ -55,10 +55,12 @@ Full-Stack Developer building cross-platform mobile & web apps with **Python (Fl
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Mesumm8&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=Mesumm8&theme=radical&hide_border=true&timezone=Asia/Muscat&mode=daily" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Mesumm8&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Mesumm8&theme=radical&hide_border=true&timezone=Asia/Muscat&mode=daily&count_private=true" height="165"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mesumm8&theme=radical&hide_border=true&layout=compact&langs_count=10"/>
+<br/><br/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mesumm8&theme=radical&hide_border=true&layout=compact&langs_count=10"/>
 
 </div>
 
